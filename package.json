@@ -1,0 +1,24 @@
+{
+  "name": "web3js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/up1512001/widski-intern-web3js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/up1512001/widski-intern-web3js/issues"
+  },
+  "homepage": "https://github.com/up1512001/widski-intern-web3js#readme",
+  "dependencies": {
+    "ganache": "^7.4.3",
+    "web3": "^1.7.5"
+  }
+}
